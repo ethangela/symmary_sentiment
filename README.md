@@ -1,4 +1,4 @@
-# symmary_sentiment (Text Preprocessing and Sentiment Analysis)
+# symmary_sentiment (Text Preprocessing only and Sentiment Analysis will follow)
 
 ## Introduction
 

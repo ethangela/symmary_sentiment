@@ -112,7 +112,9 @@ neutral: 0 / 94
 - `Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms.` {'label': 'NEGATIVE', 'score': 0.9831820130348206}
 - `We retain our margin guidance band for the year at 20% to 22%.` {'label': 'POSITIVE', 'score': 0.9815574884414673}
 
-Tata: 
+### 2. Tata:
+- `As you are aware, we don't provide specific revenue or
+earnings guidance.`
 
 ### 3. Wipro: 
 - `One, our IT services revenue for the quarter is at the top end of the guidance.` {'label': 'NEGATIVE', 'score': 0.9027857780456543}

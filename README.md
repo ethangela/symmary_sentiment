@@ -76,7 +76,7 @@ After text pre-processing steps, we separately build clean presentation text and
 
 
 ## Sector/Industry Performance Comparisions
-### For each self-defined sector, we extract the relevant sentences from the raw text, count their occurrences, and calculate the average sentiment score for each sector based on the extracted sentences.
+### For each self-defined sector, we extract the relevant sentences from the raw text, count their occurrences, and calculate the average sentiment score for each sector based on the extracted sentences. Details on self-defined sector information can be found in `main.py`.
 
 ### 1. Infosys: 
 - technology: #mentions 7. Sector-wise sentiment 0.7057794077055795.
@@ -175,7 +175,15 @@ Region-wise sentiment: 0.33.
   
 ### 1. Table `Revenues by Business Segments (in %)`
 - We notice that our self-defined sector/industry segments exactly match the ones shown in the table.
-- We enumerate the extracted sentences for each segment for Infosys in `Infosys Segments` and find a close correspondence between the table data and the text descriptions. For example, 
+- We enumerate the extracted sentences for each segment for Infosys in `Infosys Segments` and find a close correspondence between the table data and the text descriptions.
+- For example, for , the extract info is:
+
+```
+- manufacturing
+  1. We see strength in manufacturing, energy utilities and life sciences segments.
+  2. We signed eight deals in manufacturing, six in FS, four in EURS, two each in retail and communication and one in others.
+  3. Manufacturing segment continues to deliver strong performance on the back of new deal wins and ramp up of earlier large deals signed.
+```
 
 ### 2. Table `Revenues by Client Geography (in %)`
 - The extracted #mentions regarding Europe is 2, while the others are only 1, and the table shows that only revenue in Europe has increased.

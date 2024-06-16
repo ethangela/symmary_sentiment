@@ -129,37 +129,37 @@ earnings guidance.`
 ### 1. Infosys: 
 
 - North America:
-  Average Sentiment: 1.00
-  Number of Mentions: 1
+#mentions: 1.
+Region-wise sentiment: 1.00.
 
-- Europe
-  Average Sentiment: 1.00
-  Number of Mentions: 2
+- Europe:
+#mentions: 2.
+Region-wise sentiment: 1.00.
 
-- Asia
-  Average Sentiment: 1.00
-  Number of Mentions: 1
-  
+- Asia:
+#mentions: 1.
+Region-wise sentiment: 1.00.
+
 ### 2. Tata: 
 
-- North America
-  Average Sentiment: 0.52
-  Number of Mentions: 4
+- North America:
+#mentions: 4.
+Region-wise sentiment: 0.52.
 
-- Europe
-  Average Sentiment: 0.98
-  Number of Mentions: 5
+- Europe:
+#mentions: 5.
+Region-wise sentiment: 0.98.
 
-- Oceania
-  Average Sentiment: 1.00
-  Number of Mentions: 1
-  
+- Oceania:
+#mentions: 1.
+Region-wise sentiment: 1.00.
+
 ### 3. Wipro: 
 
-- North America
-  Average Sentiment: 0.99
-  Number of Mentions: 2
+- North America:
+#mentions: 2.
+Region-wise sentiment: 0.99.
 
-- Europe
-  Average Sentiment: 0.33
-  Number of Mentions: 3
+- Europe:
+#mentions: 3.
+Region-wise sentiment: 0.33.

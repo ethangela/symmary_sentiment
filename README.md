@@ -47,10 +47,10 @@ neutral: 0 / 94
 ### Tata: 
 
 -- presentation 
-len of sentences:  38
-positive: 28 / 38
-negative: 10 / 38
-neutral: 0 / 38
+- len of sentences:  38
+- positive: 28 / 38
+- negative: 10 / 38
+- neutral: 0 / 38
 
 -- Q&A 
 len of sentences:  51

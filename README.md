@@ -170,10 +170,14 @@ Region-wise sentiment: 0.99.
 Region-wise sentiment: 0.33.
 
 
-## Extracted tables for Infosys
+## Extracted tables for Infosys (Might need more exploration)
 - See `extracted_excel` as the tables in the usable form
+  
 ### 1. Table `Revenues by Business Segments (in %)`
-- We first notice that our self-defined sector/industry segments exactly match the ones shown in the table.
-- 
-### 2. 
+- We notice that our self-defined sector/industry segments exactly match the ones shown in the table.
+- We enumerate the extracted sentences for each segment for Infosys in `Infosys Segments` and find a close correspondence between the table data and the text descriptions. For example, 
+
+### 2. Table `Revenues by Client Geography (in %)`
+- The extracted #mentions regarding Europe is 2, while the others are only 1, and the table shows that only revenue in Europe has increased.
+- We didn't detect the `Rest of World` region because in the text it has been phrased as `ROW`.
   

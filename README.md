@@ -76,31 +76,31 @@ After text pre-processing steps, we need clean presentation text as well as the 
 ## Sector/Industry Performance Comparisions
 
 ### 1. Infosys: 
-- technology: Mention count 7. Sector-wise sentiment 0.7057794077055795.
-- energy: Mention count 4. Sector-wise sentiment 0.5113033056259155.
-- healthcare: Mention count 1. Sector-wise sentiment 0.9998045563697815.
-- manufacturing: Mention count 3. Sector-wise sentiment 0.9501329064369202.
-- marketing: Mention count 1. Sector-wise sentiment 0.9678220152854919.
-- finance: Mention count 1. Sector-wise sentiment 0.7860661745071411.
-- retail: Mention count 4. Sector-wise sentiment 0.9579408317804337.
-- communication: Mention count 1. Sector-wise sentiment 0.8508766293525696.
+- technology: #mentions 7. Sector-wise sentiment 0.7057794077055795.
+- energy: #mentions 4. Sector-wise sentiment 0.5113033056259155.
+- healthcare: #mentions 1. Sector-wise sentiment 0.9998045563697815.
+- manufacturing: #mentions 3. Sector-wise sentiment 0.9501329064369202.
+- marketing: #mentions 1. Sector-wise sentiment 0.9678220152854919.
+- finance: #mentions 1. Sector-wise sentiment 0.7860661745071411.
+- retail: #mentions 4. Sector-wise sentiment 0.9579408317804337.
+- communication: #mentions 1. Sector-wise sentiment 0.8508766293525696.
 
 ### 2. Tata: 
-- technology: Mention count 28. Sector-wise sentiment 0.8984409634556089.
-- marketing: Mention count 6. Sector-wise sentiment 0.6597093443075815.
-- retail: Mention count 4. Sector-wise sentiment 0.9619636684656143.
-- energy: Mention count 1. Sector-wise sentiment 0.9991719722747803.
-- healthcare: Mention count 2. Sector-wise sentiment 0.8714967966079712.
-- finance: Mention count 2. Sector-wise sentiment 0.9895267486572266.
-- communication: Mention count 2. Sector-wise sentiment 0.9969807267189026.
+- technology: #mentions 28. Sector-wise sentiment 0.8984409634556089.
+- marketing: #mentions 6. Sector-wise sentiment 0.6597093443075815.
+- retail: #mentions 4. Sector-wise sentiment 0.9619636684656143.
+- energy: #mentions 1. Sector-wise sentiment 0.9991719722747803.
+- healthcare: #mentions 2. Sector-wise sentiment 0.8714967966079712.
+- finance: #mentions 2. Sector-wise sentiment 0.9895267486572266.
+- communication: #mentions 2. Sector-wise sentiment 0.9969807267189026.
 
 ### 3. Wipro: 
-- technology: Mention count 14. Sector-wise sentiment 0.5660176532609122.
-- healthcare: Mention count 5. Sector-wise sentiment 0.26656781435012816.
-- energy: Mention count 1. Sector-wise sentiment -0.9567864537239075.
-- marketing: Mention count 3. Sector-wise sentiment 0.3463961084683736.
-- manufacturing: Mention count 1. Sector-wise sentiment 0.9990382194519043.
-- finance: Mention count 4. Sector-wise sentiment 0.4955984652042389.
+- technology: #mentions 14. Sector-wise sentiment 0.5660176532609122.
+- healthcare: #mentions 5. Sector-wise sentiment 0.26656781435012816.
+- energy: #mentions 1. Sector-wise sentiment -0.9567864537239075.
+- marketing: #mentions 3. Sector-wise sentiment 0.3463961084683736.
+- manufacturing: #mentions 1. Sector-wise sentiment 0.9990382194519043.
+- finance: #mentions 4. Sector-wise sentiment 0.4955984652042389.
 
 
 

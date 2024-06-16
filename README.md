@@ -32,28 +32,28 @@ After text pre-processing steps, we need clean presentation text as well as the 
 ### 1. Infosys:
   
 -- presentation 
-len of sentences:  7
+- #sentences in summary: 7
 - positive: 3 / 7
 - negative: 4 / 7
 - neutral: 0 / 7
 
 -- Q&A 
-len of sentences:  94
-positive: 51 / 94
-negative: 43 / 94
-neutral: 0 / 94
+- #sentences in summary: 94
+- positive: 51 / 94
+- negative: 43 / 94
+- neutral: 0 / 94
 
 
 ### 2. Tata: 
 
 -- presentation 
-- len of sentences:  38
+- #sentences in summary: 38
 - positive: 28 / 38
 - negative: 10 / 38
 - neutral: 0 / 38
 
 -- Q&A 
-- len of sentences:  51
+- #sentences in summary: 51
 - positive: 29 / 51
 - negative: 22 / 51
 - neutral: 0 / 51
@@ -62,13 +62,13 @@ neutral: 0 / 94
 ### 3. Wipro: 
 
 -- presentation 
-- len of sentences:  24
+- #sentences in summary: 24
 - positive: 14 / 24
 - negative: 10 / 24
 - neutral: 0 / 24
 
 -- Q&A 
-- len of sentences:  28
+- #sentences in summary: 28
 - positive: 18 / 28
 - negative: 10 / 28
 - neutral: 0 / 28
@@ -121,3 +121,45 @@ earnings guidance.`
 - `Onto our guidance now for the next quarter.` {'label': 'POSITIVE', 'score': 0.9612802267074585}
 - `Following a quarter of strong execution, our revenue is at the top end of the guidance range.` {'label': 'POSITIVE', 'score': 0.9400153756141663}
 - `Finally, I would like to summarize the guidance for Q4, This translates to a sequential guidance of minus 1.5% to a plus 0.5% in constant currency terms.` {'label': 'NEGATIVE', 'score': 0.9979019165039062}
+
+
+
+## Region Comparisons
+
+### 1. Infosys: 
+
+- North America:
+  Average Sentiment: 1.00
+  Number of Mentions: 1
+
+- Europe
+  Average Sentiment: 1.00
+  Number of Mentions: 2
+
+- Asia
+  Average Sentiment: 1.00
+  Number of Mentions: 1
+  
+### 2. Tata: 
+
+- North America
+  Average Sentiment: 0.52
+  Number of Mentions: 4
+
+- Europe
+  Average Sentiment: 0.98
+  Number of Mentions: 5
+
+- Oceania
+  Average Sentiment: 1.00
+  Number of Mentions: 1
+  
+### 3. Wipro: 
+
+- North America
+  Average Sentiment: 0.99
+  Number of Mentions: 2
+
+- Europe
+  Average Sentiment: 0.33
+  Number of Mentions: 3

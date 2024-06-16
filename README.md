@@ -27,5 +27,49 @@ Multiple spaces and newline characters are normalized:
 
 After text pre-processing steps, we need clean presentation text as well as the list of clean Q&A paris. The obtained results can found in this directory.
 
-### 4. Downstream Summary, Sentiment Analysis, and Comparisons (To-Be-Continued).
+## Sentiment Comparisons
+
+### Infosys:
+  
+-- presentation 
+len of sentences:  7
+positive: 3 / 7
+negative: 4 / 7
+neutral: 0 / 7
+
+-- Q&A 
+len of sentences:  94
+positive: 51 / 94
+negative: 43 / 94
+neutral: 0 / 94
+
+
+### Tata: 
+
+-- presentation 
+len of sentences:  38
+positive: 28 / 38
+negative: 10 / 38
+neutral: 0 / 38
+
+-- Q&A 
+len of sentences:  51
+positive: 29 / 51
+negative: 22 / 51
+neutral: 0 / 51
+
+
+### Wipro: 
+
+-- presentation 
+len of sentences:  24
+positive: 14 / 24
+negative: 10 / 24
+neutral: 0 / 24
+
+-- Q&A 
+len of sentences:  28
+positive: 18 / 28
+negative: 10 / 28
+neutral: 0 / 28
 

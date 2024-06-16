@@ -1,8 +1,8 @@
-# Summary Sentiment Analysis
+# Assignment 1
 
 ## Introduction
 
-This project focuses on processing transcripts of earnings calls for summary, sentiment analysis, and comparisons. We first introduce the preprocessing steps here cleaning and structuring the text to make it suitable for downstream tasks.
+This project focuses on processing transcripts of earnings calls for summary, sentiment analysis, and comparisons. We first introduce the preprocessing steps and then enumerate the analysis results.
 
 ## Preprocessing Steps
 
@@ -25,10 +25,10 @@ Multiple spaces and newline characters are normalized:
 
 ### 3. Separate to Presentation and Q&A texts
 
-After text pre-processing steps, we need clean presentation text as well as the list of clean Q&A paris. The obtained results can found in this directory.
+After text pre-processing steps, we separately build clean presentation text and clean Q&A paris.
 
 ## Sentiment Comparisons
-### We first build the summary texts for each of the three companies (see `summaries` directory), and then analyse the summary separately for presentation and Q&A
+### We first build the summary texts separately for presentation and Q&A for each of the three companies (see `summaries` directory), and then analyse the summary.
 
 ### 1. Infosys:
   
@@ -76,7 +76,7 @@ After text pre-processing steps, we need clean presentation text as well as the 
 
 
 ## Sector/Industry Performance Comparisions
-### (For each self-defined sector, we extract the relevant sentences from the raw text, count their occurrences, and calculate the average sentiment score for each sector based on the extracted sentences.)
+### For each self-defined sector, we extract the relevant sentences from the raw text, count their occurrences, and calculate the average sentiment score for each sector based on the extracted sentences.
 
 ### 1. Infosys: 
 - technology: #mentions 7. Sector-wise sentiment 0.7057794077055795.
@@ -108,7 +108,7 @@ After text pre-processing steps, we need clean presentation text as well as the 
 
 
 ## Guidance Comparisons
-### (We extract the relevant sentences regarding `guidance` information from the raw text, and calculate the sentiment score for extracted sentence.)
+### We extract the relevant sentences regarding `guidance` information from the raw text, and calculate the sentiment score for extracted sentence.
 
 ### 1. Infosys: 
 - `Based on the performance in the first three quarters and our outlook for Q4, we are tightening our revenue growth guidance for financial year '24 to 1.5% to 2% in constant currency.` {'label': 'NEGATIVE', 'score': 0.9918830394744873}
@@ -129,7 +129,7 @@ earnings guidance.`
 
 
 ## Region Comparisons
-### (For each self-defined region, we extract the relevant sentences from the raw text, count their occurrences, and calculate the average sentiment score for each region based on the extracted sentences.)
+### For each self-defined region, we extract the relevant sentences from the raw text, count their occurrences, and calculate the average sentiment score for each region based on the extracted sentences.
 
 ### 1. Infosys: 
 
@@ -168,3 +168,8 @@ Region-wise sentiment: 0.99.
 - Europe:
 #mentions: 3.
 Region-wise sentiment: 0.33.
+
+
+## Extracted tables for Infosys
+- see `extracted_excel` as the tables in the usable form
+- Fro 

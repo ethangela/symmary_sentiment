@@ -29,7 +29,7 @@ After text pre-processing steps, we need clean presentation text as well as the 
 
 ## Sentiment Comparisons
 
-### Infosys:
+### 1. Infosys:
   
 -- presentation 
 len of sentences:  7
@@ -44,7 +44,7 @@ negative: 43 / 94
 neutral: 0 / 94
 
 
-### Tata: 
+### 2. Tata: 
 
 -- presentation 
 - len of sentences:  38
@@ -59,7 +59,7 @@ neutral: 0 / 94
 - neutral: 0 / 51
 
 
-### Wipro: 
+### 3. Wipro: 
 
 -- presentation 
 - len of sentences:  24

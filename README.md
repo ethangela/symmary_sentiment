@@ -171,7 +171,9 @@ Region-wise sentiment: 0.33.
 
 
 ## Extracted tables for Infosys
-### 1. See `extracted_excel` as the tables in the usable form
-### 2. From the table `Revenues by Business Segments (in %)`, we 
-### 3. 
+- See `extracted_excel` as the tables in the usable form
+### 1. Table `Revenues by Business Segments (in %)`
+- We first notice that our self-defined sector/industry segments exactly match the ones shown in the table.
+- 
+### 2. 
   

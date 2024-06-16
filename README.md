@@ -28,6 +28,7 @@ Multiple spaces and newline characters are normalized:
 After text pre-processing steps, we need clean presentation text as well as the list of clean Q&A paris. The obtained results can found in this directory.
 
 ## Sentiment Comparisons
+### (We analyse the summary sentences within presentation and Q&A separately for each company)
 
 ### 1. Infosys:
   
@@ -73,7 +74,9 @@ After text pre-processing steps, we need clean presentation text as well as the 
 - negative: 10 / 28
 - neutral: 0 / 28
 
+
 ## Sector/Industry Performance Comparisions
+### (For each self-defined sector, we extract the relevant sentences from the raw text, count their occurrences, and calculate the average sentiment score for each sector based on the extracted sentences.)
 
 ### 1. Infosys: 
 - technology: #mentions 7. Sector-wise sentiment 0.7057794077055795.
@@ -105,6 +108,7 @@ After text pre-processing steps, we need clean presentation text as well as the 
 
 
 ## Guidance Comparisons
+### (We extract the relevant sentences regarding `guidance` information from the raw text, and calculate the sentiment score for extracted sentence.)
 
 ### 1. Infosys: 
 - `Based on the performance in the first three quarters and our outlook for Q4, we are tightening our revenue growth guidance for financial year '24 to 1.5% to 2% in constant currency.` {'label': 'NEGATIVE', 'score': 0.9918830394744873}
@@ -125,6 +129,7 @@ earnings guidance.`
 
 
 ## Region Comparisons
+### (For each self-defined region, we extract the relevant sentences from the raw text, count their occurrences, and calculate the average sentiment score for each region based on the extracted sentences.)
 
 ### 1. Infosys: 
 

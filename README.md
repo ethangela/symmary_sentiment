@@ -28,7 +28,7 @@ Multiple spaces and newline characters are normalized:
 After text pre-processing steps, we need clean presentation text as well as the list of clean Q&A paris. The obtained results can found in this directory.
 
 ## Sentiment Comparisons
-### (We analyse the summary sentences within presentation and Q&A separately for each company)
+### We first build the summary texts for each of the three companies (see `summaries` directory), and then analyse the summary separately for presentation and Q&A
 
 ### 1. Infosys:
   

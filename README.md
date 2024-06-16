@@ -176,7 +176,7 @@ Region-wise sentiment: 0.33.
 ### 1. Table `Revenues by Business Segments (in %)`
 - We notice that our self-defined sector/industry segments exactly match the ones shown in the table.
 - We enumerate the extracted sentences for each segment for Infosys in `Infosys Segments` and find a close correspondence between the table data and the text descriptions.
-- For example, for `manufacturing`, the extract info is show below, and we measure the performance as strong because the occurrence of 'see strength in manufacturing', 'eight deals', and 'deliver strong performance'. Correspondingly, in the table, we find a continuous revenue proportion increase from 2022 to 2024 (13.3, 14.3, 14.9). 
+- For example, for `manufacturing`, the extract info is show below, and we measure the performance as strong because the occurrence of 'see strength in manufacturing', 'eight deals', and 'deliver strong performance'. Correspondingly, in the table, we find a continuous revenue proportion improvement from 2022 to 2024 (13.3% -> 14.3% -> 14.9%). 
 ```
 - manufacturing
   1. We see strength in manufacturing, energy utilities and life sciences segments.

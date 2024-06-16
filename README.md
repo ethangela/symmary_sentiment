@@ -103,3 +103,19 @@ neutral: 0 / 94
 - finance: Mention count 4. Sector-wise sentiment 0.4955984652042389.
 
 
+
+## Guidance Comparisons
+
+### 1. Infosys: 
+- Based on the performance in the first three quarters and our outlook for Q4, we are tightening our revenue growth guidance for financial year '24 to 1.5% to 2% in constant currency. {'label': 'NEGATIVE', 'score': 0.9918830394744873}
+- Our operating margin guidance for financial year '24 remains unchanged at 20% to 22%. {'label': 'NEUTRAL', 'score': 0.9753782749176025}
+- Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms. {'label': 'NEGATIVE', 'score': 0.9831820130348206}
+- We retain our margin guidance band for the year at 20% to 22%. {'label': 'POSITIVE', 'score': 0.9815574884414673}
+
+Tata: 
+
+### 3. Wipro: 
+- One, our IT services revenue for the quarter is at the top end of the guidance. {'label': 'NEGATIVE', 'score': 0.9027857780456543}
+- Onto our guidance now for the next quarter. {'label': 'POSITIVE', 'score': 0.9612802267074585}
+- Following a quarter of strong execution, our revenue is at the top end of the guidance range. {'label': 'POSITIVE', 'score': 0.9400153756141663}
+- Finally, I would like to summarize the guidance for Q4, This translates to a sequential guidance of minus 1.5% to a plus 0.5% in constant currency terms. {'label': 'NEGATIVE', 'score': 0.9979019165039062}

@@ -107,10 +107,10 @@ neutral: 0 / 94
 ## Guidance Comparisons
 
 ### 1. Infosys: 
-- Based on the performance in the first three quarters and our outlook for Q4, we are tightening our revenue growth guidance for financial year '24 to 1.5% to 2% in constant currency. {'label': 'NEGATIVE', 'score': 0.9918830394744873}
-- Our operating margin guidance for financial year '24 remains unchanged at 20% to 22%. {'label': 'NEUTRAL', 'score': 0.9753782749176025}
-- Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms. {'label': 'NEGATIVE', 'score': 0.9831820130348206}
-- We retain our margin guidance band for the year at 20% to 22%. {'label': 'POSITIVE', 'score': 0.9815574884414673}
+- `Based on the performance in the first three quarters and our outlook for Q4, we are tightening our revenue growth guidance for financial year '24 to 1.5% to 2% in constant currency.` {'label': 'NEGATIVE', 'score': 0.9918830394744873}
+- `Our operating margin guidance for financial year '24 remains unchanged at 20% to 22%.` {'label': 'NEUTRAL', 'score': 0.9753782749176025}
+- `Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms.` {'label': 'NEGATIVE', 'score': 0.9831820130348206}
+- `We retain our margin guidance band for the year at 20% to 22%.` {'label': 'POSITIVE', 'score': 0.9815574884414673}
 
 Tata: 
 

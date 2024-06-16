@@ -115,7 +115,7 @@ neutral: 0 / 94
 Tata: 
 
 ### 3. Wipro: 
-- One, our IT services revenue for the quarter is at the top end of the guidance. {'label': 'NEGATIVE', 'score': 0.9027857780456543}
-- Onto our guidance now for the next quarter. {'label': 'POSITIVE', 'score': 0.9612802267074585}
-- Following a quarter of strong execution, our revenue is at the top end of the guidance range. {'label': 'POSITIVE', 'score': 0.9400153756141663}
-- Finally, I would like to summarize the guidance for Q4, This translates to a sequential guidance of minus 1.5% to a plus 0.5% in constant currency terms. {'label': 'NEGATIVE', 'score': 0.9979019165039062}
+- `One, our IT services revenue for the quarter is at the top end of the guidance.` {'label': 'NEGATIVE', 'score': 0.9027857780456543}
+- `Onto our guidance now for the next quarter.` {'label': 'POSITIVE', 'score': 0.9612802267074585}
+- `Following a quarter of strong execution, our revenue is at the top end of the guidance range.` {'label': 'POSITIVE', 'score': 0.9400153756141663}
+- `Finally, I would like to summarize the guidance for Q4, This translates to a sequential guidance of minus 1.5% to a plus 0.5% in constant currency terms.` {'label': 'NEGATIVE', 'score': 0.9979019165039062}

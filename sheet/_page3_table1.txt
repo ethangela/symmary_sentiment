@@ -1,0 +1,170 @@
+ ''  Revenues, Dec 31, 2023: 13,997, Sep 30, 2023: 13,657, Growth in doller: 2.5%  '' 
+Top 1 match with score 0.4731771945953369: At this stage, we have no specific sort of external view on what will happen in the quarter, but our overall revenue guidance for this financial year, which is only one more quarter gives you a sense of how we are feeling about that
+Top 2 match with score 0.47253406047821045: Revenue for nine months increased by 1.8% in constant currency and 2.5% in USD terms
+Top 3 match with score 0.46869081258773804: For the first three quarters, our revenue grew by 1.8% over the same period last year in constant currency
+Top 4 match with score 0.4619876444339752: 
+Coming to our Q3 results, revenues declined by 1% year-on-year in constant currency
+Top 5 match with score 0.44250380992889404: I mean, we have seen for the last two years, there's absolutely been no growth in that particular business
+
+
+
+
+ ''  Cost of sales, Dec 31, 2023: 9,755, Sep 30, 2023: 9,544, Growth in doller: 2.2%  '' 
+Top 1 match with score 0.4054765999317169: Has that changed in any way in terms of conversion, some of these deals? And when we could start seeing that inflection point in revenue growth because of those deals converting? Thanks a lot
+Top 2 match with score 0.4017786979675293: We have seen renewals to be in the range of $1.5 billion to $2 billion
+Top 3 match with score 0.3958827257156372: Revenue for nine months increased by 1.8% in constant currency and 2.5% in USD terms
+Top 4 match with score 0.3935162425041199: On things that were more in the past, that behavior on the cost has continued, and the incremental projects we have seen even in the past quarter some impact
+Top 5 match with score 0.3882282078266144: I think, the employee costs have come down I think in this quarter as well
+
+
+
+
+ ''  Gross Profit, Dec 31, 2023: 4 ,242, Sep 30, 2023: 4 ,113, Growth in doller: 3.1%  '' 
+Top 1 match with score 0.5119538307189941: For the first three quarters, our revenue grew by 1.8% over the same period last year in constant currency
+Top 2 match with score 0.4941296875476837: Revenue for nine months increased by 1.8% in constant currency and 2.5% in USD terms
+Top 3 match with score 0.4786982536315918: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+Top 4 match with score 0.4786982536315918: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+Top 5 match with score 0.47755151987075806: At this stage, we have no specific sort of external view on what will happen in the quarter, but our overall revenue guidance for this financial year, which is only one more quarter gives you a sense of how we are feeling about that
+
+
+
+
+ ''  Operating Expenses:, Dec 31, 2023: nan, Sep 30, 2023: nan, Growth in doller: nan  '' 
+Top 1 match with score 0.47823789715766907: Now, this is also the start of the financial -- the calendar year
+Top 2 match with score 0.4289224445819855: Revenue for nine months increased by 1.8% in constant currency and 2.5% in USD terms
+Top 3 match with score 0.4061049818992615: And as we come to the end of our financial year and as we plan for next year, that'll give us, let's say, more view into that spending pattern
+Top 4 match with score 0.4049796164035797: For the first three quarters, our revenue grew by 1.8% over the same period last year in constant currency
+Top 5 match with score 0.39262890815734863: Q: So even the revenue will come back in the fourth quarter, right?
+A: So I think in the statement, you have seen that the systems are back substantially by the end of December, right, the system is up and running
+
+
+
+
+ ''  Selling and marketing expenses, Dec 31, 2023: 6 33, Sep 30, 2023: 5 74, Growth in doller: 10.3%  '' 
+Top 1 match with score 0.4641079604625702: Revenue for nine months increased by 1.8% in constant currency and 2.5% in USD terms
+Top 2 match with score 0.4472523331642151: Now, this is also the start of the financial -- the calendar year
+Top 3 match with score 0.4411351680755615: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+Top 4 match with score 0.4411351680755615: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+Top 5 match with score 0.43164464831352234: Has that changed in any way in terms of conversion, some of these deals? And when we could start seeing that inflection point in revenue growth because of those deals converting? Thanks a lot
+
+
+
+
+ ''  Administrative expenses, Dec 31, 2023: 6 92, Sep 30, 2023: 6 71, Growth in doller: 3.1%  '' 
+Top 1 match with score 0.45399314165115356: For the first three quarters, our revenue grew by 1.8% over the same period last year in constant currency
+Top 2 match with score 0.44936665892601013: Now, this is also the start of the financial -- the calendar year
+Top 3 match with score 0.4382839798927307: Revenue for nine months increased by 1.8% in constant currency and 2.5% in USD terms
+Top 4 match with score 0.43315520882606506: I think, the employee costs have come down I think in this quarter as well
+Top 5 match with score 0.4215499758720398: We have seen renewals to be in the range of $1.5 billion to $2 billion
+
+
+
+
+ ''  Total Operating Expenses, Dec 31, 2023: 1 ,325, Sep 30, 2023: 1 ,245, Growth in doller: 6.4%  '' 
+Top 1 match with score 0.4570043683052063: I think, the employee costs have come down I think in this quarter as well
+Top 2 match with score 0.4355649948120117: For the first three quarters, our revenue grew by 1.8% over the same period last year in constant currency
+Top 3 match with score 0.43359509110450745: Revenue for nine months increased by 1.8% in constant currency and 2.5% in USD terms
+Top 4 match with score 0.4252476394176483: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+Top 5 match with score 0.4252476394176483: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+
+
+
+
+ ''  Operating Profit, Dec 31, 2023: 2 ,917, Sep 30, 2023: 2 ,868, Growth in doller: 1.7%  '' 
+Top 1 match with score 0.4775986671447754: Revenue for nine months increased by 1.8% in constant currency and 2.5% in USD terms
+Top 2 match with score 0.45995384454727173: For the first three quarters, our revenue grew by 1.8% over the same period last year in constant currency
+Top 3 match with score 0.4396127760410309: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+Top 4 match with score 0.4396127760410309: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+Top 5 match with score 0.42691171169281006: I mean, we have seen for the last two years, there's absolutely been no growth in that particular business
+
+
+
+
+ ''  Operating Margin %, Dec 31, 2023: 20.8, Sep 30, 2023: 21.0, Growth in doller: -0.2%  '' 
+Top 1 match with score 0.6221110224723816: Our operating margin was at 20.5%
+Top 2 match with score 0.5481700897216797: Operating margins for Q2 were 20.5%, a decline of 70 basis points sequentially, bringing the ninemonth margins to 20.8%, which is within the guidance banked for the year
+Top 3 match with score 0.5408958196640015: We retain our margin guidance band for the year at 20% to 22%
+Top 4 match with score 0.5408958196640015: We retain our margin guidance band for the year at 20% to 22%
+Top 5 match with score 0.5253506302833557: Our operating margin guidance for financial year '24 remains unchanged at 20% to 22%
+
+
+
+
+ ''  Other Income, net(1), Dec 31, 2023: 1 96, Sep 30, 2023: 2 29, Growth in doller: -14.4%  '' 
+Top 1 match with score 0.5022512078285217: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+Top 2 match with score 0.5022512078285217: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+Top 3 match with score 0.48370125889778137: For the first three quarters, our revenue grew by 1.8% over the same period last year in constant currency
+Top 4 match with score 0.4680451452732086: Revenue for nine months increased by 1.8% in constant currency and 2.5% in USD terms
+Top 5 match with score 0.43018853664398193: 
+Coming to our Q3 results, revenues declined by 1% year-on-year in constant currency
+
+
+
+
+ ''  Profit before income taxes, Dec 31, 2023: 3 ,113, Sep 30, 2023: 3 ,097, Growth in doller: 0.5%  '' 
+Top 1 match with score 0.48831671476364136: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+Top 2 match with score 0.48831671476364136: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+Top 3 match with score 0.4770561158657074: Revenue for nine months increased by 1.8% in constant currency and 2.5% in USD terms
+Top 4 match with score 0.4740946292877197: For the first three quarters, our revenue grew by 1.8% over the same period last year in constant currency
+Top 5 match with score 0.448184072971344: At this stage, we have no specific sort of external view on what will happen in the quarter, but our overall revenue guidance for this financial year, which is only one more quarter gives you a sense of how we are feeling about that
+
+
+
+
+ ''  Income tax expense, Dec 31, 2023: 9 04, Sep 30, 2023: 8 59, Growth in doller: 5.2%  '' 
+Top 1 match with score 0.48980414867401123: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+Top 2 match with score 0.48980414867401123: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+Top 3 match with score 0.46392738819122314: Revenue for nine months increased by 1.8% in constant currency and 2.5% in USD terms
+Top 4 match with score 0.4550397992134094: For the first three quarters, our revenue grew by 1.8% over the same period last year in constant currency
+Top 5 match with score 0.4261874556541443: So is the expectation remaining similar on that or has anything changed with respect to the transition period and flow through of the revenue?
+A: There, as we had shared previously, it was towards the end of the year and that's where we are
+
+
+
+
+ ''  Net Profit (before minority interest), Dec 31, 2023: 2 ,209, Sep 30, 2023: 2 ,238, Growth in doller: -1.3%  '' 
+Top 1 match with score 0.4888959527015686: For the first three quarters, our revenue grew by 1.8% over the same period last year in constant currency
+Top 2 match with score 0.48132970929145813: At this stage, we have no specific sort of external view on what will happen in the quarter, but our overall revenue guidance for this financial year, which is only one more quarter gives you a sense of how we are feeling about that
+Top 3 match with score 0.4809894561767578: Revenue for nine months increased by 1.8% in constant currency and 2.5% in USD terms
+Top 4 match with score 0.4672605097293854: Sequentially, revenues similarly declined by 1% in constant currency and 1.2% in dollar terms
+Top 5 match with score 0.4671365022659302: With this, our large deal value for the first three quarters stands at $13.2 billion, of which 55% is net new
+
+
+
+
+ ''  Net Profit (after minority interest), Dec 31, 2023: 2 ,208, Sep 30, 2023: 2 ,237, Growth in doller: -1.3%  '' 
+Top 1 match with score 0.4853200614452362: For the first three quarters, our revenue grew by 1.8% over the same period last year in constant currency
+Top 2 match with score 0.47723931074142456: Revenue for nine months increased by 1.8% in constant currency and 2.5% in USD terms
+Top 3 match with score 0.476048082113266: At this stage, we have no specific sort of external view on what will happen in the quarter, but our overall revenue guidance for this financial year, which is only one more quarter gives you a sense of how we are feeling about that
+Top 4 match with score 0.4611979126930237: With this, our large deal value for the first three quarters stands at $13.2 billion, of which 55% is net new
+Top 5 match with score 0.45796483755111694: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+
+
+
+
+ ''  Basic EPS (in doller), Dec 31, 2023: 0.53, Sep 30, 2023: 0.53, Growth in doller: 0.0%  '' 
+Top 1 match with score 0.5540251135826111: EPS declined by 6.1% in INR on a year-on-year basis and grew by 3% in INR for the nine months period ended
+Top 2 match with score 0.34896644949913025: Q: Any reason that the current growth trajectory should change near term? Or should it remain somewhat consistent?
+A: So there -- if you look at our guidance for the remaining -- for the full year, which is for the remaining quarter, it's for the entire business
+Top 3 match with score 0.34661608934402466: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+Top 4 match with score 0.34661608934402466: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+Top 5 match with score 0.33521169424057007: For the first three quarters, our revenue grew by 1.8% over the same period last year in constant currency
+
+
+
+
+ ''  Diluted EPS (in doller), Dec 31, 2023: 0.53, Sep 30, 2023: 0.53, Growth in doller: 0.1%  '' 
+Top 1 match with score 0.5356438159942627: EPS declined by 6.1% in INR on a year-on-year basis and grew by 3% in INR for the nine months period ended
+Top 2 match with score 0.30413076281547546: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+Top 3 match with score 0.30413076281547546: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+Top 4 match with score 0.3001552224159241: A: Sorry, I think what I'm saying is that the comp increase also has happened this quarter
+
+
+
+
+ ''  Dividend Per Share (in doller)(2), Dec 31, 2023: 0.22, Sep 30, 2023: 0.20, Growth in doller: 9.1%  '' 
+Top 1 match with score 0.4882691502571106: Consolidated cash and equivalent stood at $3.9 billion at the end of the quarter after a dividend payout of $895 million
+Top 2 match with score 0.4305325150489807: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+Top 3 match with score 0.4305325150489807: Driven by our YTD growth of 1.8% in CC terms and Q4 outlook, we have revised our revenue growth guidance for FY '24 from 1% to 2.5% previously to 1.5% to 2% in constant currency terms
+Top 4 match with score 0.42297565937042236: For the first three quarters, our revenue grew by 1.8% over the same period last year in constant currency
+Top 5 match with score 0.37932288646698: Revenue for nine months increased by 1.8% in constant currency and 2.5% in USD terms

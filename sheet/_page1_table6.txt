@@ -1,0 +1,53 @@
+ ''  Revenues by Business Segments Financial services: constant currency -5.9%  '' 
+Top 1 match with score 0.35237276554107666: retail: In the retail segment, cost takeouts and consolidation remain the primary focus for the clients
+Top 2 match with score 0.3490516245365143: finance: Some examples of the work we're doing in these areas, we are working with a large global bank to support them in their risk analysis program by using a large language model for them
+
+
+ ''  Revenues by Business Segments Retail: constant currency 0.4%  '' 
+Top 1 match with score 0.5039969682693481: retail: In the retail segment, cost takeouts and consolidation remain the primary focus for the clients
+Top 2 match with score 0.33451274037361145: manufacturing: Manufacturing segment continues to deliver strong performance on the back of new deal wins and ramp up of earlier large deals signed
+Top 3 match with score 0.31264182925224304: communication: We signed eight deals in manufacturing, six in FS, four in EURS, two each in retail and communication and one in others
+
+
+ ''  Revenues by Business Segments Communication: constant currency -8.0%  '' 
+Top 1 match with score 0.4655866026878357: communication: We signed eight deals in manufacturing, six in FS, four in EURS, two each in retail and communication and one in others
+Top 2 match with score 0.3642865717411041: retail: In the retail segment, cost takeouts and consolidation remain the primary focus for the clients
+Top 3 match with score 0.34470757842063904: manufacturing: Manufacturing segment continues to deliver strong performance on the back of new deal wins and ramp up of earlier large deals signed
+Top 4 match with score 0.33892324566841125: finance: Some examples of the work we're doing in these areas, we are working with a large global bank to support them in their risk analysis program by using a large language model for them
+
+
+ ''  Revenues by Business Segments Energy Utilities Resources and Services: constant currency 0.3%  '' 
+Top 1 match with score 0.4073922634124756: healthcare: We see strength in manufacturing, energy utilities and life sciences segments
+Top 2 match with score 0.3601454496383667: energy: Our investment on industry cloud solutions and the energy transition combined with extreme focus on human experience have helped us differentiate, win multiple deals and build a strong pipeline
+Top 3 match with score 0.3249543309211731: technology: Our investment on industry cloud solutions and the energy transition combined with extreme focus on human experience have helped us differentiate, win multiple deals and build a strong pipeline
+
+
+ ''  Revenues by Business Segments Manufacturing: constant currency 10.6%  '' 
+Top 1 match with score 0.48526206612586975: manufacturing: Manufacturing segment continues to deliver strong performance on the back of new deal wins and ramp up of earlier large deals signed
+Top 2 match with score 0.37917593121528625: communication: We signed eight deals in manufacturing, six in FS, four in EURS, two each in retail and communication and one in others
+Top 3 match with score 0.36925774812698364: retail: In the retail segment, cost takeouts and consolidation remain the primary focus for the clients
+Top 4 match with score 0.3233885169029236: healthcare: We see strength in manufacturing, energy utilities and life sciences segments
+
+
+ ''  Revenues by Business Segments Hi-Tech: constant currency -5.1%  '' 
+Top 1 match with score 0.38570278882980347: manufacturing: Manufacturing segment continues to deliver strong performance on the back of new deal wins and ramp up of earlier large deals signed
+Top 2 match with score 0.3689805865287781: retail: In the retail segment, cost takeouts and consolidation remain the primary focus for the clients
+Top 3 match with score 0.35845232009887695: healthcare: We see strength in manufacturing, energy utilities and life sciences segments
+Top 4 match with score 0.34621384739875793: communication: We signed eight deals in manufacturing, six in FS, four in EURS, two each in retail and communication and one in others
+Top 5 match with score 0.305980920791626: finance: Some examples of the work we're doing in these areas, we are working with a large global bank to support them in their risk analysis program by using a large language model for them
+
+
+ ''  Revenues by Business Segments Life Sciences: constant currency 6.3%  '' 
+Top 1 match with score 0.4491384029388428: healthcare: We see strength in manufacturing, energy utilities and life sciences segments
+Top 2 match with score 0.31389540433883667: retail: In the retail segment, cost takeouts and consolidation remain the primary focus for the clients
+
+
+ ''  Revenues by Business Segments Others: constant currency 7.0%  '' 
+Top 1 match with score 0.33912038803100586: retail: In the retail segment, cost takeouts and consolidation remain the primary focus for the clients
+Top 2 match with score 0.3351115584373474: manufacturing: Manufacturing segment continues to deliver strong performance on the back of new deal wins and ramp up of earlier large deals signed
+Top 3 match with score 0.3130624294281006: communication: We signed eight deals in manufacturing, six in FS, four in EURS, two each in retail and communication and one in others
+
+
+ ''  Revenues by Business Segments Total: constant currency -1.0%  '' 
+Top 1 match with score 0.3161875605583191: retail: In the retail segment, cost takeouts and consolidation remain the primary focus for the clients
+Top 2 match with score 0.3087267279624939: manufacturing: Manufacturing segment continues to deliver strong performance on the back of new deal wins and ramp up of earlier large deals signed

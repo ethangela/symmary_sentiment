@@ -1,0 +1,16 @@
+ ''  Revenue Growth quarter 3 2024 quarter-on-quarter growth (%): constant currency -1.0%  '' 
+Top 1 match with score 0.8132177591323853: For the first three quarters, our revenue grew by 1.8% over the same period last year in constant currency
+Top 2 match with score 0.694708526134491: 
+Coming to our Q3 results, revenues declined by 1% year-on-year in constant currency
+Top 3 match with score 0.6926833391189575: Our Q3 revenue declined by 1% quarter-on-quarter and 1% year-on-year in constant currency terms
+Top 4 match with score 0.6819989085197449: Revenue for nine months increased by 1.8% in constant currency and 2.5% in USD terms
+Top 5 match with score 0.680861234664917: Sequentially, revenues similarly declined by 1% in constant currency and 1.2% in dollar terms
+
+
+ ''  Revenue Growth quarter 3 2024 year-on-year growth (%): constant currency -1.0%  '' 
+Top 1 match with score 0.8136268258094788: For the first three quarters, our revenue grew by 1.8% over the same period last year in constant currency
+Top 2 match with score 0.716171383857727: 
+Coming to our Q3 results, revenues declined by 1% year-on-year in constant currency
+Top 3 match with score 0.7095981240272522: Revenue for nine months increased by 1.8% in constant currency and 2.5% in USD terms
+Top 4 match with score 0.6835198402404785: Sequentially, revenues similarly declined by 1% in constant currency and 1.2% in dollar terms
+Top 5 match with score 0.6736979484558105: Our Q3 revenue declined by 1% quarter-on-quarter and 1% year-on-year in constant currency terms

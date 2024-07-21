@@ -1,0 +1,29 @@
+ ''  Revenues by Client Geography North America: constant currency -4.9%  '' 
+Top 1 match with score 0.5040780305862427: North America: Region-wise, we signed 10 large deals in America, nine in Europe and three in ROW, and one in India
+Top 2 match with score 0.4183395504951477: Europe: Region-wise, we signed 10 large deals in America, nine in Europe and three in ROW, and one in India
+Top 3 match with score 0.4145059585571289: Asia: Region-wise, we signed 10 large deals in America, nine in Europe and three in ROW, and one in India
+
+
+ ''  Revenues by Client Geography Europe: constant currency 5.0%  '' 
+Top 1 match with score 0.4036937355995178: Europe: Region-wise, we signed 10 large deals in America, nine in Europe and three in ROW, and one in India
+Top 2 match with score 0.3575461208820343: North America: Region-wise, we signed 10 large deals in America, nine in Europe and three in ROW, and one in India
+Top 3 match with score 0.3563234210014343: Asia: Region-wise, we signed 10 large deals in America, nine in Europe and three in ROW, and one in India
+Top 4 match with score 0.3532840311527252: Europe: Growth was broad-based across Europe and the US as well as across industrial, automotive, and aerospace industries
+
+
+ ''  Revenues by Client Geography Rest of the world: constant currency 7.8%  '' 
+Top 1 match with score 0.4323444366455078: Asia: Region-wise, we signed 10 large deals in America, nine in Europe and three in ROW, and one in India
+Top 2 match with score 0.4300875663757324: North America: Region-wise, we signed 10 large deals in America, nine in Europe and three in ROW, and one in India
+Top 3 match with score 0.4216423034667969: Europe: Region-wise, we signed 10 large deals in America, nine in Europe and three in ROW, and one in India
+
+
+ ''  Revenues by Client Geography India: constant currency -1.0%  '' 
+Top 1 match with score 0.3980976939201355: Asia: Region-wise, we signed 10 large deals in America, nine in Europe and three in ROW, and one in India
+Top 2 match with score 0.37044692039489746: North America: Region-wise, we signed 10 large deals in America, nine in Europe and three in ROW, and one in India
+Top 3 match with score 0.3632880449295044: Europe: Region-wise, we signed 10 large deals in America, nine in Europe and three in ROW, and one in India
+
+
+ ''  Revenues by Client Geography Total: constant currency -1.0%  '' 
+Top 1 match with score 0.34238189458847046: Asia: Region-wise, we signed 10 large deals in America, nine in Europe and three in ROW, and one in India
+Top 2 match with score 0.33843469619750977: North America: Region-wise, we signed 10 large deals in America, nine in Europe and three in ROW, and one in India
+Top 3 match with score 0.33311226963996887: Europe: Region-wise, we signed 10 large deals in America, nine in Europe and three in ROW, and one in India

@@ -1,0 +1,33 @@
+ ''  Effort Onsite, Dec 31, 2023: 24.4%, Sep 30, 2023: 24.6%, Dec 31, 2022: 24.5%  '' 
+Top 1 match with score 0.4232807457447052: On things that were more in the past, that behavior on the cost has continued, and the incremental projects we have seen even in the past quarter some impact
+Top 2 match with score 0.4088219702243805: I think, the employee costs have come down I think in this quarter as well
+Top 3 match with score 0.36993247270584106: Of course, we won't give a number about next year
+Top 4 match with score 0.36982643604278564: So there's a lot of stuff happening, and I think we're already seeing the early results
+Top 5 match with score 0.3688235878944397: And as you know well, these will go through the early part of this month, so nothing from that
+
+
+
+ ''  Effort Offshore, Dec 31, 2023: 75.6%, Sep 30, 2023: 75.4%, Dec 31, 2022: 75.5%  '' 
+Top 1 match with score 0.46281227469444275: Can you just give us a sense how you're thinking about resourcing plans near term? I know it was down again sequentially about 2%
+Top 2 match with score 0.4462953209877014: There are other internal, of course, programs on the pyramid, a lot of work there onsite, offshore is the first time we've seen some positive movement after a lot of quarters
+Top 3 match with score 0.42087239027023315: On things that were more in the past, that behavior on the cost has continued, and the incremental projects we have seen even in the past quarter some impact
+Top 4 match with score 0.3934248387813568: I think Finacle business continues to motor ahead, very nice deal wins across
+Top 5 match with score 0.38636088371276855: Whereas the cost and the efficiency and now even consolidation, we are seeing more and more of that, which is what we were seeing last quarter as well
+
+
+
+ ''  Utilization Including trainees, Dec 31, 2023: 81.7%, Sep 30, 2023: 80.4%, Dec 31, 2022: 77.1%  '' 
+Top 1 match with score 0.5647139549255371: Headcount at the end of the quarter stood at 322,000 employees, a decline of 1.9% from the previous quarter, which is reflected in improvement in utilization to 82.7% excluding trainees
+Top 2 match with score 0.519035279750824: Utilization is one you're seeing, in fact, that's the biggest one, straight up in your metrics you can see that and how that's flowing into margins
+Top 3 match with score 0.48778069019317627: So I think, I've mentioned that a couple of times, utilization is something where we have headroom
+Top 4 match with score 0.4838435649871826: We've operated at much higher utilization, 84, 85 and enough cost in the COVID years, maybe 87, 88. So that's one, and we are still below 84 as we speak
+Top 5 match with score 0.43388673663139343: So you have talked about 100,000 new employees being trained on GenAI
+
+
+
+ ''  Utilization Excluding trainees, Dec 31, 2023: 82.7%, Sep 30, 2023: 81.8%, Dec 31, 2022: 81.7%  '' 
+Top 1 match with score 0.576640784740448: Headcount at the end of the quarter stood at 322,000 employees, a decline of 1.9% from the previous quarter, which is reflected in improvement in utilization to 82.7% excluding trainees
+Top 2 match with score 0.541989803314209: Utilization is one you're seeing, in fact, that's the biggest one, straight up in your metrics you can see that and how that's flowing into margins
+Top 3 match with score 0.49791455268859863: So I think, I've mentioned that a couple of times, utilization is something where we have headroom
+Top 4 match with score 0.47096604108810425: We've operated at much higher utilization, 84, 85 and enough cost in the COVID years, maybe 87, 88. So that's one, and we are still below 84 as we speak
+Top 5 match with score 0.43009912967681885: A: So we still have a lot of headroom, and we've talked about it in fact the last two quarters that our utilizations are still quite low

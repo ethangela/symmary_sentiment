@@ -170,21 +170,69 @@ Region-wise sentiment: 0.99.
 Region-wise sentiment: 0.33.
 
 
-## Extracted tables for Infosys (Might need more exploration)
-- See `extracted_excel` as the tables in the usable form
+## Extracted tables for Infosys (Updated version on 21 Jul 2024)
+### Overall workflow
+- Automatically extract tables from the PDF using `pdfplumber` pakcage 
+- Use custom dictionaries to clarify the information in the extracted tables (e.g., convert YOY to year-on-year, CC to constant currency, ($) to (in doller term) etc.) 
+- Extract the information from the tables and embed it using `'all-MiniLM-L6-v2'` model imported from `SentenceTransformer` pakcage
+- Also embed the information from the cleaned earning call text, the extracted sub-texts from Sector/Industry Performance Comparisions and Region Comparisons (tasks above)  
+- Calculate cosine scores between the two embeddings to identify connections between the descriptions in the earnings call and the information presented in the tables.
+- From the examples below, we can clearly find that most info in the extracted tables is described in the earning call, but some negative info is only vagauly metnioned in the earning call, can by connecting them, we provide quite vital insights.
+- The examples below demonstrate that most information in the extracted tables is discussed in the earnings call. However, some negative details (in the table) are only vaguely mentioned (in the earnings call). By connecting these pieces of information, we provide crucial insights.
   
-### 1. Table `Revenues by Business Segments (in %)`
-- We notice that our self-defined sector/industry segments exactly match the ones shown in the table.
-- We enumerate the extracted sentences for each segment for Infosys in `Infosys Segments` and find a close correspondence between the table data and the text descriptions.
-- For example, for `manufacturing`, the extract info is show below, and we measure the performance as strong because the occurrence of 'see strength in manufacturing', 'eight deals', and 'deliver strong performance'. Correspondingly, in the table, we find a continuous revenue proportion improvement from 2022 to 2024 (13.3% -> 14.3% -> 14.9%). 
-```
-- manufacturing
-  1. We see strength in manufacturing, energy utilities and life sciences segments.
-  2. We signed eight deals in manufacturing, six in FS, four in EURS, two each in retail and communication and one in others.
-  3. Manufacturing segment continues to deliver strong performance on the back of new deal wins and ramp up of earlier large deals signed.
-```
+### Result example 1: first table on page 1
+- The first extracted table on page 1 is saved as `_page1_table1.csv` in the `sheet` folder 
+- The infomation in this table includes data like `Third Quarter: -1.0% YoY & QoQ CC growt`
+- The top 3 matching descriptions in the earnings call are:
+  - Top 1 match with score 0.7658648490905762: Our Q3 revenue declined by 1% quarter-on-quarter and 1% year-on-year in constant currency terms
+  - Top 2 match with score 0.6902984380722046: Sequentially, revenues similarly declined by 1% in constant currency and 1.2% in dollar terms
+  - Top 3 match with score 0.6568119525909424: Coming to our Q3 results, revenues declined by 1% year-on-year in constant currency
+- The result (top 1) is the corresponding description that closely aligns with the information in the table showing `Q3 revenue declined by 1% quarter-on-quarter and 1% year-on-year`
 
-### 2. Table `Revenues by Client Geography (in %)`
-- The extracted #mentions regarding Europe is 2, while the others are only 1, and the table shows that only revenue in Europe has increased.
-- We didn't detect the `Rest of World` region because in the text it has been phrased as `ROW`.
-  
+### Result example 2: second table on page 1
+- The second extracted table on page 1 is saved as `_page1_table2.csv` in the `sheet` folder 
+- The infomation in this table includes data like `Third Quarter: 20.5% Operating margin`
+- The top 3 matching descriptions in the earnings call are:
+  - Top 1 match with score 0.8842840194702148: Our operating margin was at 20.5%
+  - Top 2 match with score 0.6875313520431519: Our operating margin guidance for financial year '24 remains unchanged at 20% to 22%
+  - Top 3 match with score 0.6250747442245483: Operating margins for Q2 were 20.5%, a decline of 70 basis points sequentially, bringing the ninemonth margins to 20.8%, which is within the guidance banked for the year
+- The result (top 1) is the corresponding description that closely aligns with the information in the table showing `operating margin was at 20.5% in the third quarter`
+
+### Result example 3: fourth table on page 1
+- The fourth extracted table on page 1 is saved as `_page1_table4.csv` in the `sheet` folder 
+- The infomation in this table includes data like `Third Quarter: $3.2 bn Large deal TCV (71% net new)`
+- The top 3 matching descriptions in the earnings call are:
+  - Top 1 match with score 0.7026665210723877: Large deal momentum continued and deal TCV of Q3 was $3.2 billion with 71% net new
+  - Top 2 match with score 0.6287296414375305: Consequently, our large deal TCV is over $13 billion, which is the highest ever for any comparative period
+  - Top 3 match with score 0.603040337562561: Large deals were at $3.2 billion, 71% of this was net new
+- The results (top 1 and top 3) are the corresponding descriptions that closely align with the information in the table showing `Large deal TCV of Q3 was $3.2 billion with 71% net new`
+
+### Result example 4: fifth table on page 1
+- The fifth extracted table on page 1 is saved as `_page1_table5.csv` in the `sheet` folder 
+- The infomation in this table includes data like `Revenue Growth- Q3 24; QoQ growth (%) Reported -1.2 CC -1.0; YoY growth (%) Reported 0.1 CC -1.0%`
+- For first row `QoQ growth`, the top 4 matching descriptions in the earnings call are:
+  - Top 1 match with score 0.694708526134491: Coming to our Q3 results, revenues declined by 1% year-on-year in constant currency
+  - Top 2 match with score 0.6926833391189575: Our Q3 revenue declined by 1% quarter-on-quarter and 1% year-on-year in constant currency terms
+  - Top 3 match with score 0.6819989085197449: Revenue for nine months increased by 1.8% in constant currency and 2.5% in USD terms
+  - Top 4 match with score 0.680861234664917: Sequentially, revenues similarly declined by 1% in constant currency and 1.2% in dollar terms
+- The results (top 2 and top 4) are the corresponding descriptions closely align with the information in the table showing `Revenue Growth on Q3 2024 is with QoQ growth as Reported -1.2% and CC -1.0%`
+- For second row `YoY growth`, the top 4 matching descriptions in the earnings call are:
+  - Top 1 match with score 0.716171383857727: Coming to our Q3 results, revenues declined by 1% year-on-year in constant currency
+  - Top 2 match with score 0.7095981240272522: Revenue for nine months increased by 1.8% in constant currency and 2.5% in USD terms
+  - Top 3 match with score 0.6835198402404785: Sequentially, revenues similarly declined by 1% in constant currency and 1.2% in dollar terms
+  - Top 4 match with score 0.6736979484558105: Our Q3 revenue declined by 1% quarter-on-quarter and 1% year-on-year in constant currency terms
+- The results (top 1 and top 4) are the corresponding descriptions that closely align with the information in the table showing `Revenue Growth on Q3 2024 is with YoY growth as Reported 0.1% and CC -1.0%`
+
+### Result example 5: sixth table on page 1
+- The sixth extracted table on page 1 is saved as `_page1_table6.csv` in the `sheet` folder 
+- The infomation in this table includes data about `Revenues by Business Segments`
+- For the third row `Communication; YoY growth Reported (7.3); CC (8.0)`, the top 2 matching descriptions in the earnings call are:
+  - Top 1 match with score 0.4655866026878357: We signed eight deals in manufacturing, six in FS, four in EURS, two each in retail and communication and one in others
+  - Top 2 match with score 0.3642865717411041: In the retail segment, cost takeouts and consolidation remain the primary focus for the clients
+- The result (top 1) is the corresponding descriptions that align with the information in the table indicating `communication is with YoY growth Reported -7.3% and CC -8.0%`. While the table clearly shows a decline in the communication segment, the earnings call only vaguely references two deals each in retail and communication without explicitly disclosing the decline. This suggests that the company might be downplaying negative performance in the earnings call. Therefore, extracting and comparing table data with the earnings call text, as we have done, is crucial for uncovering such discrepancies.
+- For the fifth row `Manufacturing; YoY growth Reported 12.5; CC 10.6`, the top 2 matching descriptions in the earnings call are:
+  - Top 1 match with score 0.48526206612586975: Manufacturing segment continues to deliver strong performance on the back of new deal wins and ramp up of earlier large deals signed
+  - Top 2 match with score 0.37917593121528625: We signed eight deals in manufacturing, six in FS, four in EURS, two each in retail and communication and one in others
+- The result (top 1) is the corresponding descriptions that closely align with the information in the table showing that `Manufacturing is with strong performance with YoY growth Reported 12.5% and CC 10.6%`
+
+### Additionally, I have presented the results for the tables `Revenues by Client Geography`, `Effort & Utilization – Consolidated IT Services`, and `Consolidated Statement of Comprehensive Income for Nine Months Ended (Extracted from IFRS Financial Statement)`. These are all saved in the `sheet` folder, and their corresponding details are readily accessible.

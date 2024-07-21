@@ -1,0 +1,8 @@
+technology: Our investment on industry cloud solutions and the energy transition combined with extreme focus on human experience have helped us differentiate, win multiple deals and build a strong pipeline.
+energy: Our investment on industry cloud solutions and the energy transition combined with extreme focus on human experience have helped us differentiate, win multiple deals and build a strong pipeline.
+healthcare: We see strength in manufacturing, energy utilities and life sciences segments.
+manufacturing: Manufacturing segment continues to deliver strong performance on the back of new deal wins and ramp up of earlier large deals signed.
+marketing: Some of these areas are related to client analytics, process optimization, sales, marketing, knowledge analysis, software development, self-service, and personalization.
+finance: Some examples of the work we're doing in these areas, we are working with a large global bank to support them in their risk analysis program by using a large language model for them.
+retail: In the retail segment, cost takeouts and consolidation remain the primary focus for the clients.
+communication: We signed eight deals in manufacturing, six in FS, four in EURS, two each in retail and communication and one in others.

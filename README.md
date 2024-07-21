@@ -172,7 +172,7 @@ Region-wise sentiment: 0.33.
 
 ## Extracted tables for Infosys (Updated version on 21 Jul 2024)
 ### Overall workflow
-- We employ `sheet.py` to automatically extract and analyse tables, i.e., steps 1 to 6 below
+- We employ `sheet.py` to automatically extract and analyse tables, i.e., steps i to vi below
 - 1. Automatically extract tables from the PDF using `pdfplumber` pakcage 
 - 2. Use custom dictionaries to clarify the information in the extracted tables (e.g., convert YOY to year-on-year, CC to constant currency, ($) to (in doller term) etc.) 
 - 3. Extract the information from the tables and embed it using `'all-MiniLM-L6-v2'` model imported from `SentenceTransformer` pakcage
